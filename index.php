@@ -36,6 +36,8 @@
             <a href="<?php echo $url.'api/enablesignin.php'?>" class="list-group-item">Enable Signin</a>
             <a href="<?php echo $url.'api/savecontrol.php'?>" class="list-group-item">Save Control</a>
             <a href="<?php echo $url.'api/markmap.php'?>" class="list-group-item">Map Marker</a>
+            <a href="<?php echo $url.'api/markmapanimate.php'?>" class="list-group-item">Map Marker Animate</a>
+            <a href="<?php echo $url.'api/custommarkmap.php'?>" class="list-group-item">Custom Map Marker</a>
             
           </div>
         </div><!-- /.col-sm-4 -->
@@ -44,7 +46,7 @@
             <a href="#" class="list-group-item active">
               Api's
             </a>
-            <a href="<?php echo $url.'api/distancematrix.php'?>" class="list-group-item">Distance Matrix</a>
+            <a href="<?php echo $url.'api/hotels-near-by.php'?>" class="list-group-item">Find Hotels Near me</a>
             
           </div>
         </div><!-- /.col-sm-4 -->
