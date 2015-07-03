@@ -4,3 +4,8 @@ This is project is aimed to use the maximum Google Api that is allowed by themse
 
 
 Built using : PHP & Bootstrap with Google API's
+
+
+Configuration : 
+
+Change the path in the includes->app.php
