@@ -9,3 +9,5 @@ Built using : PHP & Bootstrap with Google API's
 Configuration : 
 
 Change the path in the includes->app.php
+
+Live Url in Githubio to be updated
