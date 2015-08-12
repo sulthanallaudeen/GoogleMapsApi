@@ -10,4 +10,4 @@ Configuration :
 
 Change the path in the includes->app.php
 
-Live Url in Githubio to be updated
+Deployed in Heroku -> https://sys-googlemapsapi.herokuapp.com/
