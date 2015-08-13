@@ -3,7 +3,7 @@
 		include ('../assets/header.php'); # Including the common header
 	?>
 
-<script src="http://maps.googleapis.com/maps/api/js"></script>
+<script src="https://maps.googleapis.com/maps/api/js"></script>
 
 
     <script>
