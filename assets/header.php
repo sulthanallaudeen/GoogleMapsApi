@@ -9,7 +9,7 @@
     <meta name="author" content="Sulthan Allaudeen">
     <link rel="icon" href="img/favicon.ico">
 
-    <title>Google Maps Api in PHP</title>
+    <title>Google Maps Api</title>
 
     <!-- Bootstrap core CSS -->
     <link href="<?php echo $url;?>assets/css/bootstrap.min.css" rel="stylesheet">
