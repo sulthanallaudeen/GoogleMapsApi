@@ -8,8 +8,8 @@
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
-        <h3>Google Maps Api in PHP</h3>
-        <p>This is the application which implements (mostly) all the Api's Provided by Google Map Api in PHP.</p>
+        <h3>Google Maps Api</h3>
+        <p>This is the application which implements (mostly) all the Api's Provided by Google Map Api.</p>
         <h4>Note : </h4>
         Please allow the access to locate the GPS as the Application is fully depend on it.
         <h5><b>S.A. Sulthan Allaudeen</b></h5>

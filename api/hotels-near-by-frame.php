@@ -91,7 +91,7 @@
       }
     </style>
 
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true&libraries=places"></script>
+     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyC09TAf3SZN1xpoTYID2TSX-8jxus_yZeE&signed_in=true&libraries=places"></script>
     <script>
 // This example uses the autocomplete feature of the Google Places API.
 // It allows the user to find all hotels in a given place, within a given

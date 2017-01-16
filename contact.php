@@ -5,7 +5,7 @@
   ?>
       <div class="jumbotron">       
         <h3>Contact</h3>
-        <p><a href="http://sysaxiom.com/contact/" target="_new" style="text-decoration:none">Click here</a> to Contact the me (Sulthan Allaudeen) </p>
+        <p><a href="https://sulthanallaudeen.com/contact/" target="_new" style="text-decoration:none">Click here</a> to Contact the me (Sulthan Allaudeen) </p>
 	  </div>
   <?php
 		include ('assets/footer.php'); #Including the common footer

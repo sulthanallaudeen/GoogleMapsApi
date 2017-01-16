@@ -3,7 +3,7 @@
 		include ('../assets/header.php'); # Including the common header
 	?>
 
-<script src="https://maps.googleapis.com/maps/api/js"></script>
+
 
 
    <script>
@@ -21,7 +21,7 @@ var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 
 var marker=new google.maps.Marker({
   position:myCenter,
-  icon:'http://sysaxiom.com/wp-content/uploads/2015/05/Sulthan-Allaudeen-150x150.jpg'
+  icon:'http://image.flaticon.com/icons/png/128/148/148836.png'
   });
 
 marker.setMap(map);

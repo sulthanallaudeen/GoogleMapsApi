@@ -8,7 +8,7 @@
       <div class="jumbotron">
         
                   
-        <h3>Google Maps Api in PHP</h3>
+        <h3>Google Maps Api</h3>
         <p>This is the application which makes uses of few of the Api's Provided by Google Maps.</p>
 	  </div>
 

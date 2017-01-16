@@ -5,7 +5,7 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
- <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyC09TAf3SZN1xpoTYID2TSX-8jxus_yZeE"></script>
     <script>
 var chicago = new google.maps.LatLng(41.850033, -87.6500523);
 var anchorage = new google.maps.LatLng(61.2180556, -149.9002778);

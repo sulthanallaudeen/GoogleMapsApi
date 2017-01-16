@@ -3,10 +3,6 @@
 		include ('../assets/header.php'); # Including the common header
 	?>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-
- <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
-
     <script>
 var map;
 function initialize() {

@@ -26,6 +26,8 @@
     <script src="<?php echo $url;?>assets/js/shCore.js"></script>
     <script src="<?php echo $url;?>assets/js/shBrushJScript.js"></script>
     <link href="<?php echo $url;?>assets/css/shCoreDefault.css" rel="stylesheet">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true&libraries=places&key=AIzaSyC09TAf3SZN1xpoTYID2TSX-8jxus_yZeE"></script>
     <script type="text/javascript">SyntaxHighlighter.all();</script>
 
     
