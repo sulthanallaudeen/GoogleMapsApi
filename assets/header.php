@@ -51,7 +51,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="<?php echo $url;?>index.php">Google Maps Api in PHP</a>
+          <a class="navbar-brand" href="<?php echo $url;?>index.php">Google Maps Api</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
         <?php
@@ -73,12 +73,11 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Know More <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="#">Related Links</a></li>
-                <li><a href="#">Technologies Used</a></li>
+                <li><a href="<?php echo $url;?>technologies_used.php">Technologies Used</a></li>
                 <li class="divider"></li>
                 <li class="dropdown-header">Even More</li>
                 <li><a href="#">Stat of this App</a></li>
-                <li><a href="#">License followed</a></li>
+                <li><a href="<?php echo $url;?>license_followed.php">License followed</a></li>
               </ul>
             </li>
           </ul>

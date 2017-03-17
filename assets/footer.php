@@ -7,7 +7,7 @@
       $EndTime = microtime(true);
       $ExecutedTime = $EndTime - $StartTime;
       ?>
-        <p>Copyright @ Sulthan Allaudeen. </p>
+        <p>Copyright @  <a href="https://www.sulthanallaudeen.com" target="_new">Sulthan Allaudeen</a></p>
         <p> Page Executed in <?php echo $ExecutedTime; ?> seconds</p>
       </div>
 
